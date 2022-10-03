@@ -16,7 +16,7 @@
     "react-scripts": "3.4.1",
     "typescript": "~3.7.2",
     "uuid": "^9.0.0",
-    "homepage":"https://XAOC614.github.io/HomeworkIgnat"
+//    "homepage":"https://XAOC614.github.io/HomeworkIgnat"
   },
   "scripts": {
     "start": "react-scripts start",
