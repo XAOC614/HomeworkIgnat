@@ -1,3 +1,44 @@
 .message {
+    width: 300px;
+    display: grid;
+    grid-template-columns: 2fr 16fr;
+    background-color: yellowgreen;
+    opacity: 50%;
+    height: 100px;
+}
+
+.imageBlock {
+    margin-top: 45px;
+    width: 50px;
+    border-radius: 30px;
+}
+
+.textBlock {
+    width: 240px;
+    background-color: dimgray;
+    opacity: 95%;
+    height: 68px;
+    border-radius: 10px;
+    margin-top: 15px;
+    position: relative;
+
+}
+
+.name {
+    padding-bottom: 22px;
+    margin: 12px;
+
+}
+
+.text {
+    margin-bottom: 2px;
+    margin-top: -40px;
+
+}
+
+.time {
+    margin-left: 190px;
+    margin-top: -52px;
+
 
 }
